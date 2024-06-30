@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> ![image](https://github.com/chirag876/.NETWorkSpace/assets/108919262/ec36ccb1-a661-497b-81f7-3e9b80fe7bad)<br/>.NET WorkSpace</h1>
+      <h1> [![image](https://github.com/chirag876/.NETWorkSpace/assets/108919262/ec36ccb1-a661-497b-81f7-3e9b80fe7bad)](https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg)<br/>.NET WorkSpace</h1>
      </div>
 <p align="center"> <a href="https://www.linkedin.com/in/chiraggupta1706" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
 
