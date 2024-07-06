@@ -1,5 +1,5 @@
 <div align="center">
-      <h1><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="100px" style="vertical-align: middle;" />
+      <h1><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="150px" style="vertical-align: middle;" />
         <br/>.NET WorkSpace</h1>
      </div>
 <p align="center"> <a href="https://www.linkedin.com/in/chiraggupta1706" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
