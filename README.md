@@ -46,5 +46,10 @@ To get started with the repository, follow these steps:
     ```
 5. **Note:** This repository contains multiple projects, each serving a different purpose. Ensure that you navigate to the specific project folder you want to build and run.
 
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
+## License
+
+This project is licensed under the [MIT License](./LICENSE).  
+© 2025 Chirag Gupta. Please credit if reused.
+
+
     
